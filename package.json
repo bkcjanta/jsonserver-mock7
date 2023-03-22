@@ -1,0 +1,17 @@
+{
+    "name": "jsonserver",
+    "version": "1.0.0",
+    "description": "json server for masai school project",
+    "main": "index.js",
+    "scripts": {
+        "build": "node index.js"
+    },
+    "keywords": [],
+    "author": "bhupendra kumar chandrakar",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "json-serve": "^0.1.0",
+        "json-server": "^0.17.1"
+    }
+}

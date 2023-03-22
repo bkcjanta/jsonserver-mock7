@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "masai",
+            "email": "masai@gmail.com",
+            "password": "12345",
+            "type": "user"
+        },
+        {
+            "id": 2,
+            "username": "admin",
+            "email": "admin@stockbroker.com",
+            "password": "admin123"
+        }
+    ]
+}
